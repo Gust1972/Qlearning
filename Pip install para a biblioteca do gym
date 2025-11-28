@@ -1,0 +1,4 @@
+Caso apareça a mensagem de no mudle installed ao tentar rodar o código de qlearning.py que utiliza a biblioteca gymnasium,
+entrar no terminal do vscode e digitar:
+pip install gymnasium
+pip install gymnasium[toy_text]
